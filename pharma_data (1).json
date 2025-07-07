@@ -1,0 +1,116 @@
+{
+  "Macrolides": {
+    "classification": [
+      "Erythromycin",
+      "Azithromycin",
+      "Clarithromycin"
+    ],
+    "mnemonic": "ACE the exam with Macrolides",
+    "quiz": [
+      {
+        "question": "Which macrolide starts with A?",
+        "answer": "Azithromycin"
+      },
+      {
+        "question": "Give any one macrolide drug.",
+        "answer": "Erythromycin"
+      }
+    ]
+  },
+  "Penicillins": {
+    "classification": [
+      "Benzylpenicillin",
+      "Amoxicillin",
+      "Cloxacillin",
+      "Flucloxacillin"
+    ],
+    "mnemonic": "Basic CLASS of Penicillins: B-A-C-F",
+    "quiz": [
+      {
+        "question": "Which penicillin is commonly used for strep throat?",
+        "answer": "Amoxicillin"
+      },
+      {
+        "question": "Give an antistaphylococcal penicillin.",
+        "answer": "Cloxacillin"
+      }
+    ]
+  },
+  "Cephalosporins": {
+    "classification": [
+      "1st Gen: Cefazolin, Cephalexin",
+      "2nd Gen: Cefuroxime, Cefaclor",
+      "3rd Gen: Ceftriaxone, Cefotaxime",
+      "4th Gen: Cefepime",
+      "5th Gen: Ceftaroline"
+    ],
+    "mnemonic": "FAke FOX FUR TREat MEN with TARZAN",
+    "quiz": [
+      {
+        "question": "Which generation is Cefepime?",
+        "answer": "4th"
+      },
+      {
+        "question": "Name a 3rd generation cephalosporin.",
+        "answer": "Ceftriaxone"
+      }
+    ]
+  },
+  "Tetracyclines": {
+    "classification": [
+      "Tetracycline",
+      "Doxycycline",
+      "Minocycline",
+      "Tigecycline"
+    ],
+    "mnemonic": "Tigers Do Make Tough Cyclists",
+    "quiz": [
+      {
+        "question": "Name a tetracycline with anti-MRSA action.",
+        "answer": "Tigecycline"
+      },
+      {
+        "question": "Which tetracycline causes photosensitivity?",
+        "answer": "Doxycycline"
+      }
+    ]
+  },
+  "Fluoroquinolones": {
+    "classification": [
+      "Ciprofloxacin",
+      "Levofloxacin",
+      "Moxifloxacin"
+    ],
+    "mnemonic": "CIPRO Loves MOXI tricks",
+    "quiz": [
+      {
+        "question": "Name a fluoroquinolone with anti-TB activity.",
+        "answer": "Levofloxacin"
+      },
+      {
+        "question": "Which quinolone is best for UTI?",
+        "answer": "Ciprofloxacin"
+      }
+    ]
+  },
+  "Aminoglycosides": {
+    "classification": [
+      "Streptomycin",
+      "Gentamicin",
+      "Amikacin",
+      "Tobramycin",
+      "Neomycin"
+    ],
+    "mnemonic": "STANG = Strepto, Tobra, Amika, Neo, Genta",
+    "quiz": [
+      {
+        "question": "Which aminoglycoside is most nephrotoxic?",
+        "answer": "Gentamicin"
+      },
+      {
+        "question": "Name an aminoglycoside used in TB.",
+        "answer": "Streptomycin"
+      }
+    ]
+  }
+}
